@@ -25,26 +25,8 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+## If you see this screen in the beggining click to "Sitemap" and then click to "games.tsx"
+![Simulator Screenshot - iPhone 15 Pro - 2024-07-29 at 16 51 39](https://github.com/user-attachments/assets/a506b5d8-eae3-4c8c-9780-55cf14d879f9)
+![Simulator Screenshot - iPhone 15 Pro - 2024-07-29 at 16 51 43](https://github.com/user-attachments/assets/a13b3e7d-17b2-49c9-9989-e4322136e559)
 
-When you're ready, run:
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
