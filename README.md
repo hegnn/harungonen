@@ -26,7 +26,7 @@ In the output, you'll find options to open the app in a
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
 ## If you see this screen in the beggining click to "Sitemap" and then click to "games.tsx"
-![Simulator Screenshot - iPhone 15 Pro - 2024-07-29 at 16 51 39](https://github.com/user-attachments/assets/a506b5d8-eae3-4c8c-9780-55cf14d879f9)
-![Simulator Screenshot - iPhone 15 Pro - 2024-07-29 at 16 51 43](https://github.com/user-attachments/assets/a13b3e7d-17b2-49c9-9989-e4322136e559)
+<img src="https://github.com/user-attachments/assets/a506b5d8-eae3-4c8c-9780-55cf14d879f9" width="300" />
+<img src="https://github.com/user-attachments/assets/a13b3e7d-17b2-49c9-9989-e4322136e559" width="300" />
 
 
