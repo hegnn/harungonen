@@ -15,20 +15,21 @@ export default function TabLayout() {
         headerShown: false,
       }}>
       <Tabs.Screen
-        name="index"
+        name="(games)"
         options={{
-          title: 'Home',
+          title: 'Games',
           tabBarIcon: ({ color, focused }) => (
-            <TabBarIcon name={focused ? 'home' : 'home-outline'} color={color} />
+            <TabBarIcon name={focused ? "game-controller" : "game-controller-outline"} color={color} />
           ),
         }}
       />
       <Tabs.Screen
-        name="explore"
+        name="favourites"
         options={{
-          title: 'Explore',
+          title: 'Favourites',
+          headerShown: true,
           tabBarIcon: ({ color, focused }) => (
-            <TabBarIcon name={focused ? 'code-slash' : 'code-slash-outline'} color={color} />
+            <TabBarIcon name={focused ? "heart" : "heart-outline"} color={color} />
           ),
         }}
       />
