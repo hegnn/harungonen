@@ -23,7 +23,6 @@ In the output, you'll find options to open the app in a
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
 ## If you see this screen in the beggining click to "Sitemap" and then click to "games.tsx"
 <img src="https://github.com/user-attachments/assets/a506b5d8-eae3-4c8c-9780-55cf14d879f9" width="300" />
